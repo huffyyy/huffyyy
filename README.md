@@ -26,6 +26,12 @@ I'm **huffyyy**, a passionate **Front-End Developer** in the making! 🚀
 🔹 **Tools:** Git, GitHub, VS Code  
 🔹 **Frameworks/Libraries (Upcoming):** React.js  
 
+## 📫 Connect with Me  
+- GitHub: [github.com/huffyyy](https://github.com/huffyyy)  
+- Instagram: [instagram.com/husnulfk](https://www.instagram.com/husnulfk)
+
+🚀 **Let's build something amazing together!** 😃 
+
 <!---
 huffyyy/huffyyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
