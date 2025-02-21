@@ -5,7 +5,7 @@ I'm **huffyyy**, a passionate **Front-End Developer** in the making! 🚀
 - 👀 I’m interested in **Front-End Development & UI/UX Design**  
 - 🌱 I’m currently learning **HTML5, CSS (Grid & Flexbox), JavaScript, and Git/GitHub**  
 - 💞️ I’m looking to collaborate on **open-source front-end projects & web development challenges**  
-- 📫 How to reach me: **@husnulfk*   
+- 📫 How to reach me: husnulf936@gmail.com   
 - ⚡ Fun fact: **I love coding while listening to indonesian indie music! 🎧**
 
 ## 📚 What I’m Learning  
