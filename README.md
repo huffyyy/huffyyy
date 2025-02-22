@@ -8,8 +8,29 @@ I'm **huffyyy**, a passionate **Front-End Developer** in the making! 🚀
 - 📫 How to reach me: husnulf936@gmail.com   
 - ⚡ Fun fact: **I love coding while listening to indonesian indie music! 🎧**
 
-🚀 **Let's build something amazing together!** 😃 
+## 📚 What I’m Learning  
+**Currently focused on:**  
+- HTML5 Semantic Elements  
+- CSS Grid & Flexbox for layout mastery  
+- JavaScript fundamentals & DOM manipulation  
+- Version control with Git & GitHub
 
+## 🎯 2025 Goals  
+✅ Become proficient in **CSS & JavaScript**  
+✅ Build **real-world projects** using **React.js**  
+✅ Contribute to **open-source projects**  
+✅ Deploy my first **portfolio website**  
+
+## 🛠 Tech Stack  
+🔹 **Languages:** HTML5, CSS3, JavaScript  
+🔹 **Tools:** Git, GitHub, VS Code  
+🔹 **Frameworks/Libraries (Upcoming):** React.js  
+
+## 📫 Connect with Me  
+- Email : husnulf936@gmail.com
+- Instagram: [instagram.com/husnulfk](https://www.instagram.com/husnulfk)
+
+🚀 **Let's build something amazing together!** 😃
 <!---
 huffyyy/huffyyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
