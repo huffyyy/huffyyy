@@ -8,11 +8,6 @@ I'm **huffyyy**, a passionate **Front-End Developer** in the making! 🚀
 - 📫 How to reach me: husnulf936@gmail.com   
 - ⚡ Fun fact: **I love coding while listening to indonesian indie music! 🎧**
 
-
-## 📫 Connect with Me  
-- Email : husnulf936@gmail.com
-- Instagram: [instagram.com/husnulfk](https://www.instagram.com/husnulfk)
-
 🚀 **Let's build something amazing together!** 😃 
 
 <!---
